@@ -8,7 +8,7 @@ _________________________________________
 
 git clone https://github.com/Siamkhan143/kali-scripts.git
 
-
+wget https://kali.download/nethunter-images/current/rootfs/kali-nethunter-rootfs-full-arm64.tar.xz
 cd kali-scripts
 
 
