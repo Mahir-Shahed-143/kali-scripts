@@ -31,3 +31,4 @@ sudo apt install -y libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-
 
 sudo apt install -y libswscale-dev libavformat-dev libavcodec-dev zlib1g-dev libgstreamer1.0-dev libmtdev-dev
 
+(  pkg install wget openssl-tool proot -y && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Kali/kali.sh && bash kali.sh  )
